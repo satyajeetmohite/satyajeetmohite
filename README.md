@@ -3,5 +3,5 @@
 ![Satyajeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyajeetmohite&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![Satyajeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyajeetmohite&show_icons=true)
 ![Satyajeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyajeetmohite&show_icons=true&theme=radical)
-api/top-langs?username=anuraghazra
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyajeetmohite)](https://github.com/satyajeetmohite/github-readme-stats)
