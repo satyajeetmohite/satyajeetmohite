@@ -4,4 +4,4 @@
 ![Satyajeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyajeetmohite&show_icons=true)
 ![Satyajeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyajeetmohite&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyajeetmohite)](https://github.com/satyajeetmohite/github-readme-stats)
+
