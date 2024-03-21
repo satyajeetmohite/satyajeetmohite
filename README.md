@@ -161,7 +161,7 @@
 
 ----
 	
-[![Satyajeet's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=satyajeetmohite&theme=github)](https://github.com/satyajeetmohite/github-readme-activity-graph)
+[![Satyajeet's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=satyajeetmohite&theme=github	)](https://github.com/satyajeetmohite/github-readme-activity-graph)
 
  
 </details>
@@ -171,12 +171,6 @@
 
 </br></br>
 	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/satyajeetmohite/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
-
 
 
 
