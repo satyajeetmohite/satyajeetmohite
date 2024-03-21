@@ -139,7 +139,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pydeep9026&theme=tokyonight_duo" alt="pydeep9026" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=satyajeetmohite&theme=tokyonight_duo" alt="satyajeetmohite" /></p>
 
 </details>
   
