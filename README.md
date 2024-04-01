@@ -21,7 +21,7 @@
 - I am currently Working as Software Developer at Trux Inc.
 - I have completed my Xth from Balwantrao Zele HighSchool
   Jaysingpur . 
-- I have hone my Graduation in Mechanical Engineering 
+- I have done my Graduation in Mechanical Engineering 
   from DKTE Society's Textile and Engineering Institute, Ichalkarnji.
 - I have completed my Post Graduation Diploma in Advaced
   Computing from Sunbeam InfoTech Pune.
